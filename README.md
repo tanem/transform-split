@@ -1,7 +1,7 @@
 # transform-split
 
 [![Build Status](https://travis-ci.org/tanem/transform-split.png?branch=master)](https://travis-ci.org/tanem/transform-split)
-[![Coverage Status](https://coveralls.io/repos/tanem/transform-split/badge.png?branch=master)](https://coveralls.io/r/tanem/transform-split?branch=master)
+[![Coverage Status](https://coveralls.io/repos/tanem/transform-split/badge.png)](https://coveralls.io/r/tanem/transform-split)
 [![NPM version](https://badge.fury.io/js/transform-split.svg)](http://badge.fury.io/js/transform-split)
 
 A transform stream that splits an incoming stream based on a delimiter.
