@@ -1,3 +1,7 @@
+## v0.2.2
+
+ * Remove redundant code
+ 
 ## v0.2.1
 
  * Bump version to fix npm weirdness
