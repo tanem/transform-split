@@ -18,11 +18,11 @@ $ npm install transform-split --save
 
 ```js
 var stream = require('stream');
-var Split = require('transform-split');
+var split = require('transform-split');
 var source = stream.PassThrough();
 var dest = stream.PassThrough();
 
-source.pipe(Split()).pipe(dest);
+source.pipe(split()).pipe(dest);
     
 source.write(new Buffer('Bibendum'));
 source.write(new Buffer(' Vestibulum'));
@@ -37,7 +37,7 @@ dest.on('data', function(chunk){
 
 ## API
 
-### var split = TransformSplit(delimiter)
+### var split = transformSplit(delimiter)
 
 Initialise a new `TransformSplit` with the given `delimiter`.
 

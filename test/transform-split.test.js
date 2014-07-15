@@ -1,13 +1,13 @@
 var expect = require('expect.js');
 var stream = require('stream');
-var TransformSplit = require('../lib/transform-split');
+var transformSplit = require('../lib/transform-split');
 
 describe('Transform split', function(){
 
   var split;
 
   beforeEach(function(){
-    split = TransformSplit();
+    split = transformSplit();
   });
 
   it('should have "\\n" as the default delimiter', function(){
@@ -15,7 +15,7 @@ describe('Transform split', function(){
   });
 
   it('should allow setting of a delimiter', function(){
-    split = TransformSplit('foo');
+    split = transformSplit('foo');
     expect(split._delimiter).to.be('foo');
   });
 
