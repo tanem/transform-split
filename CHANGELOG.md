@@ -1,3 +1,7 @@
+## v1.0.0
+
+ * v1.0.0
+
 ## v0.2.2
 
  * Remove redundant code
