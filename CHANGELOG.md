@@ -1,3 +1,7 @@
+## v1.0.1 / 2014-10-20
+
+ * ([50c47d6](https://github.com/tanem/transform-split/commit/50c47d6b26d49c3eb0e80537e7300a33e5bbd75b)) Add commit links to changelog (fixes [#1](https://github.com/tanem/transform-split/issues/1))
+
 ## v1.0.0 / 2014-09-14
 
  * ([886ec90](https://github.com/tanem/transform-split/commit/886ec9049e6774b3f151994ad396c2c877672c75)) v1.0.0
