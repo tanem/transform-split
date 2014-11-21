@@ -1,3 +1,7 @@
+## v1.0.3 / 2014-11-21
+
+ * ([5afa6bd](https://github.com/tanem/transform-split/commit/5afa6bdfa53dcc4171d951a7fb546811ac86312d)) Update README
+
 ## v1.0.2 / 2014-10-29
 
  * ([65e0069](https://github.com/tanem/transform-split/commit/65e0069a492bac0a83e32535ea1278a7ffcc61a0)) Tidy up README

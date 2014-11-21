@@ -1,6 +1,6 @@
 {
   "name": "transform-split",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A transform stream that splits an incoming stream based on a delimiter.",
   "main": "index.js",
   "homepage": "https://github.com/tanem/transform-split",
