@@ -8,7 +8,7 @@ A transform stream that splits an incoming stream based on a delimiter.
 
 ## Installation
 
-```sh
+```
 $ npm install transform-split --save
 ```
 
@@ -40,14 +40,14 @@ Initialise a new `TransformSplit` with the given `delimiter`.
 
 ## Testing
 
-```sh
-$ make test
+```
+$ npm run test-spec
 ```
 
 To generate a coverage report:
 
-```sh
-$ make test-cov
+```
+$ npm run test-cov
 ```
 
 ## Credits
