@@ -1,3 +1,7 @@
+## v1.0.4 / 2014-12-05
+
+ * ([58c113f](https://github.com/tanem/transform-split/commit/58c113fa41dd05cba6e085fafd853562203b8322)) Use NPM scripts instead of Make
+
 ## v1.0.3 / 2014-11-21
 
  * ([5afa6bd](https://github.com/tanem/transform-split/commit/5afa6bdfa53dcc4171d951a7fb546811ac86312d)) Update README
